@@ -1,3 +1,3 @@
 $("div").animate({
-    "font-size": "100px"
+    fontSize: "100px"
 }, 3000);
